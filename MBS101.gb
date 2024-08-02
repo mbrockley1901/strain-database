@@ -1,4 +1,4 @@
-LOCUS       MBS101                 10008 bp    DNA        circular     08-FEB-2024
+LOCUS       MBS101                 10008 bp    DNA        circular     29-JUL-2024
 DEFINITION  .
 ACCESSION   
 VERSION     
@@ -43,13 +43,12 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_revcolor="#646697"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
-     regulatory      2889..3593
-                     /regulatory_class="terminator"
+     terminator      2889..3593
                      /locus_tag="t35S CaMV"
                      /label="t35S CaMV"
                      /ApEinfo_label="t35S CaMV"
-                     /ApEinfo_fwdcolor="#b6b6b6"
-                     /ApEinfo_revcolor="#b6b6b6"
+                     /ApEinfo_fwdcolor="#bbb9bb"
+                     /ApEinfo_revcolor="#bbb9bb"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
      rep_origin      9338..9927
@@ -100,40 +99,36 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_revcolor="#bdffc7"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
-     regulatory      3726..3909
-                     /regulatory_class="promoter"
+     promoter        3726..3909
                      /locus_tag="pNOS"
                      /label="pNOS"
                      /ApEinfo_label="pNOS"
-                     /ApEinfo_fwdcolor="#bbbbbb"
-                     /ApEinfo_revcolor="#bbbbbb"
+                     /ApEinfo_fwdcolor="#c897fb"
+                     /ApEinfo_revcolor="#c897fb"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
-     regulatory      1911..2310
-                     /regulatory_class="promoter"
+     promoter        1911..2310
                      /locus_tag="p35S CaMV"
                      /label="p35S CaMV"
                      /ApEinfo_label="p35S CaMV"
-                     /ApEinfo_fwdcolor="#c193f4"
-                     /ApEinfo_revcolor="#c193f4"
+                     /ApEinfo_fwdcolor="#c797fb"
+                     /ApEinfo_revcolor="#c797fb"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
-     regulatory      1596..1848
-                     /regulatory_class="terminator"
+     terminator      1596..1848
                      /locus_tag="tNOS"
                      /label="tNOS"
                      /ApEinfo_label="tNOS"
-                     /ApEinfo_fwdcolor="#bbbbbb"
-                     /ApEinfo_revcolor="#bbbbbb"
+                     /ApEinfo_fwdcolor="#bcbaba"
+                     /ApEinfo_revcolor="#bcbaba"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
-     regulatory      5110..5362
-                     /regulatory_class="terminator"
+     terminator      5110..5362
                      /locus_tag="tNOS(1)"
                      /label="tNOS(1)"
                      /ApEinfo_label="tNOS"
-                     /ApEinfo_fwdcolor="#bbbbbb"
-                     /ApEinfo_revcolor="#bbbbbb"
+                     /ApEinfo_fwdcolor="#bcbaba"
+                     /ApEinfo_revcolor="#bcbaba"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
      3'UTR           1359..1542
@@ -168,13 +163,12 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_revcolor="#c8fcfb"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
-     regulatory      469..783
-                     /regulatory_class="promoter"
+     promoter        469..783
                      /locus_tag="p35S CaMV(1)"
                      /label="p35S CaMV(1)"
                      /ApEinfo_label="p35S CaMV"
-                     /ApEinfo_fwdcolor="#c897fb"
-                     /ApEinfo_revcolor="#c897fb"
+                     /ApEinfo_fwdcolor="#c797fb"
+                     /ApEinfo_revcolor="#c797fb"
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
      misc_feature    1..162
