@@ -1,0 +1,100 @@
+>MBO101 6xhis-zera-TEV into pEAQ-HT-GFP forward
+ctgcccaaattcgcg accggt atgcatcacc
+>MBO102 6xhis-zera-TEV into pEAQ-HT-GFP reverse
+CTTCTCCTTTGCTAGTCAT ACCGGT TCCTTGGAAGTACAAG
+>MBO103 ageI + start + 6xhis-thrombin-gliadin (M9TGF7) fwd
+cccaaattcgcg accggt atg catcatcatcatcatcacagc
+>MBO104 gliadin (M9TGF7) + xhoI reverse into pEAQ-HT
+ccagagttaaaggc ctcgag tcattggccaccaatgcc
+>MBO105 gliadin (P04721) + xhoI reverse into pEAQ-HT
+gaaaccagagttaaaggc ctcgag ttatttcctcgctaggttcc
+>MBO106 pEAQ-HT sequencing primer fwd
+CCGTGGTTTTCGAACTTGG
+>MBO107 pEAQ-HT sequencing primer rev
+GAAATGCACACCGAATAACAG
+>MBO108 ageI + start + mcherry/CFP fwd
+gcccaaattcgcg accggt atggtgagcaagggcgagg
+>MBO109 mcherry/CFP + KDEL + vector fwd
+gagctgtacagatctaaggacgagctttaa ctcgag gcctttaactctgg
+>MBO110 mcherry + KDEL + vector rev
+aaaggc ctcgag ttaaagctcgtccttagatctgtacagctcctccatgc
+>MBO111 CFP + KDEL + vector rev
+aaaggc ctcgag ttaaagctcgtccttagatctgtacagctcgtccatgc
+>MBO112 5'UTR close
+GTTAAGCTTCTGTATATTCTGCCC
+>MBO113 3'UTR close
+CCACGCGCTCATCAAGCCAG
+>MBO114 p12s3 fwd
+cgagctccaccgc gtttaaac agtggacaggctgactaagtgacagc
+>MBO115 p12s3 + 5'UTR rev
+cataccggtttttcttcctctttattgatttactttcttactttgtgggttatggagttt
+>MBO116 p12S3 + kpnI+ CPMV 5'UTR
+ctccataacccacggtacctattaaaatcttaataggttttgataaaagcgaacgtgggg
+>MBO117 12s3 3'UTR + peaq MCS rev
+ccacgcgctcatcaagccaggcctcgagctagtgatggtg
+>MBO118 12s3 3'UTR fwd
+caccatcactagctcgaggcctggcttgatgagcgcgtgg
+>MBO119 12s3 3' UTR rev
+tttttttttttttttttctcgcatgttagtgaactg
+>MBO120 p12S3 rev
+ata ggtacc gtgggttatggagtttatgtatttataggagacttgttg
+>MBO121 seed construct vector forward
+aaaaaaaaaaaaaaaaagaccgggaattcgatatcaagc
+>MBO122 seed construct vector reverse
+gtttaaacgcggtggagctcgaattcttaattaacaattcactggcc
+>MBO123 ageI sig-his-zera fwd
+CTGCCCAAATTCGCG ACCGGT ATGAGAGTCTTACTTGTCGC
+>MBO124 p12S3 + PacI forward
+cgacggccagtgaattg ttaattaa agtggacaggctgactaagtgacagc
+>MBO125 EcoRI + 12S1 3'UTR reverse
+gcttgatatc gaattc ccggtctttttttttttttttttctcgcatgttagtgaactg
+>MBO126 TMV Ω fwd (kpnI)
+cccac ggtacc atttttacaacaattaccaacaacaacaaacaacagacaacattaca
+at
+>MBO127 TMV Ω rev (ageI)
+atgcat accggt tgtaattgtaaatagtaattgtaatgttgtctgttgtttgttgttg
+>MBO128 p12S3 fwd for pUC119 gibson
+cagctatgaccatgggcgcgcc aagctt attg ttaattaa agtggacaggctgac
+>MBO129 p12S3 rev for pUC119 gibson
+cctgcaggtcgcgagcgatcgc ggtacc gtgggttatggagtttatgtatttatagg
+>MBO130 pSEC + SmaI + FL OVA
+ATGCATCACCATCACCATCAT CCC atgggctccatcggtgc
+>MBO131 pSEC + XhoI + STOP + FL OVA
+GCGCTCATCAAGCCAGGC CTCGAG TTA aggggaaacacatctgcc
+>MBO132 zdrp fwd
+attctgcccaaattcgcg accggt ATGGCAAAGAACCTCAACTCC
+>MBO133 zdrp rev
+atg cccggg atgatggtgatggtgatgcat cacgtg AGCATCGCTCTTCAGGAT
+>MBO134 zrdp + PmlI + ova
+ATCCTGAAGAGCGATGCT cacgtg atgggctccatcggtgc
+>MBO135 pAPO + xhoI + STOP + ova
+gaaaccagagttaaaggc ctcgag tta aggggaaacacatctgc
+>MBO136 Ova PmlI zdrp rev (to gibson ova, zrdp, and pEAQ together)
+gcaccgatggagcccat cacgtg AGCATCGCTCTTCAGGAT
+>MBO137 SALK_085866.51.85.x LP locus AT1G03880.1
+ATCGCTTATACACGACGTTCG
+>MBO138 SALK_085866.51.85.x RP locus AT1G03880.1
+CACCTGAGATCTTGGCTCAAG
+>MBO139 GABI_283D09 LP locus AT4G28520
+TTCTAATAGCGGATGTGCGTC
+>MBO140 GABI_283D09 RP locus AT4G28520
+TGCAAACCTAATCCTACGTGG
+>MBO141 LBb1.3 border primer
+ATTTTGCCGATTTCGGAAC
+>MBO142 LB primer
+ATATTGACCATCATACTCATTGC
+>MBO143 RB 35sT primer
+GTGGATTGATGTGATATCTCC
+>MBO144 At4G28520.1 promoter forward PacI
+gtaaaacgacggccagtgaattg ttaattaa GTCGAGCACGAACGTCATAG
+>MBO145 At4G28520.1 promoter rev kpnI CPMV RNA-2
+atcaaaacctattaagattttaata ggtacc GACTTAGGAGGAGTTTATATATTG
+>MBO146 At4G28520.1 promoter fwd kpnI CPMV RNA-2 pEAQ MCS
+CTCCTCCTAAGTC ggtacc tattaaaatcttaataggttttgataaaagcgaacgtgg
+gg
+>MBO147 At4G28520.1 3'UTR rev StuI CPMV RNA-2 pEAQ MCS
+CGTTTTGATTTAAGCCTCGAC aggcct cgagctagtgatggtg
+>MBO148 At4G28520.1 3'UTR StuI fwd
+caccatcactagctcg aggcct GTCGAGGCTTAAATCAAAACG
+>MBO149 At4G28520.1 3'UTR EcoRI rev
+aggtcgataagcttgatatc gaattc AGACGAAAAAACTGGCGC
