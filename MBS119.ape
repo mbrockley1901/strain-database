@@ -1,10 +1,11 @@
-LOCUS       VZJ8SB_1_pAPO_2        10205 bp    DNA        circular     01-AUG-2024
+LOCUS       MBS119                 10205 bp    DNA        circular     04-NOV-2024
 DEFINITION  .
 ACCESSION   
 VERSION     
 SOURCE      .
   ORGANISM  .
 COMMENT     >pAPO-2
+COMMENT     
 COMMENT     ApEinfo:methylated:1
 FEATURES             Location/Qualifiers
      CDS             join(1301..1366,1477..1497)

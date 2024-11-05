@@ -1,4 +1,4 @@
-LOCUS       MBS101                 10008 bp    DNA        circular     29-JUL-2024
+LOCUS       MBS101                 10008 bp    DNA        circular     04-NOV-2024
 DEFINITION  .
 ACCESSION   
 VERSION     
@@ -24,7 +24,6 @@ COMMENT     <Reference journal="Submitted (20-AUG-2009) Biological Chemistry,
             Biological Chemistry, John Innes Centre, Colney Lane, Norwich,
             Norfolk NR4 7UH, UK" title="Direct Submission" authors="Sainsbury
             F, Thuenemann EC, Lomonossoff GP."
-COMMENT     
 COMMENT     ApEinfo:methylated:1
 FEATURES             Location/Qualifiers
      CDS             1328..1348

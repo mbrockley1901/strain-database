@@ -1,11 +1,10 @@
-LOCUS       MBS104                 11078 bp    DNA        circular     01-AUG-2024
+LOCUS       MBS104                 11078 bp    DNA        circular     04-NOV-2024
 DEFINITION  .
 ACCESSION   <unknown id>
 VERSION     <unknown id>
 KEYWORDS    .
 SOURCE      .
   ORGANISM  . .
-COMMENT     
 COMMENT     
 COMMENT     ApEinfo:methylated:1
 FEATURES             Location/Qualifiers
