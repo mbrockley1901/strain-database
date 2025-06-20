@@ -1,10 +1,11 @@
-LOCUS       JVR8HW_6_156n          11390 bp    DNA        circular     16-JUN-2025
+LOCUS       MBS156                 11390 bp    DNA        circular     18-JUN-2025
 DEFINITION  .
 ACCESSION   
 VERSION     
 SOURCE      .
   ORGANISM  .
 COMMENT     >156n
+COMMENT     
 COMMENT     ApEinfo:methylated:1
 FEATURES             Location/Qualifiers
      CDS             3753..4271
